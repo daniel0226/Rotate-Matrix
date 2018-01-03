@@ -18,7 +18,7 @@ public class Rotate {
             }
         }
         //print matrix
-        if(correct = true)
+        if(correct == true)
         {
             for(int i = 0; i<test.length; i++)
             {
